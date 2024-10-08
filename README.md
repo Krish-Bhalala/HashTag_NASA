@@ -75,10 +75,10 @@ The following equations form the core of our model, describing the journey of so
 
 ## Team Name: Hashtag
 
-* **Tanha Patel**: 4th Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/tanha-patel-0691ab22a/)
-* **Krisha Bhalala**: 3rd Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/krisha-bhalala-b2298323a/)
-* **Hrutil Patel**: 4th Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/hrutil-patel-1a7a08260/)
-* **Krish Bhalala**: 3rd Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/krishbhalala/)
+* **Tanha Patel**: 4th Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/tanha-patel-0691ab22a/) [Github Profile](https://github.com/Tanpatel)
+* **Krisha Bhalala**: 3rd Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/krisha-bhalala-b2298323a/) [Github Profile](https://github.com/Krisha-Bhalala)
+* **Hrutil Patel**: 4th Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/hrutil-patel-1a7a08260/) [Github Profile](https://github.com/HrutilPatel)
+* **Krish Bhalala**: 3rd Year Computer Science Honours [LinkedIn Profile](https://www.linkedin.com/in/krishbhalala/) [Github Profile](https://github.com/Krish-Bhalala)
 
 ## Acknowledgments
 
